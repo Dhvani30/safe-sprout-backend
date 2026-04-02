@@ -12,7 +12,18 @@ from config import SPOTCRIME_API_KEY, MODEL_PATH, RISK_DATA_PATH, RISK_RADIUS_KM
 app = FastAPI(title="Safe Sprout Risk API")
 # Allow CORS for mobile app
 from fastapi.middleware.cors import CORSMiddleware
+# At the top of main.py, add:
+import os
 
+# Determine base path (works on Render + local)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+if os.environ.get("RENDER", False):
+    # On Render, use mounted disk
+    BASE_DIR = "/data"
+
+# Update paths in config or directly:
+MODEL_PATH = os.path.join(BASE_DIR, "models/risk_predictor.pkl")
+RISK_DATA_PATH = os.path.join(BASE_DIR, "data/mumbai_risk_grid.json")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Allow all origins (for mobile app)
