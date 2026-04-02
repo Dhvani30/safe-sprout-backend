@@ -1,0 +1,244 @@
+[
+  {
+    "region": "Andheri",
+    "total_crimes": 672,
+    "night_crimes": 420,
+    "night_percentage": 0.625,
+    "night_multiplier": 1.68,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 13
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 13
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 13
+      }
+    ],
+    "risk_category": "high"
+  },
+  {
+    "region": "Kurla",
+    "total_crimes": 672,
+    "night_crimes": 456,
+    "night_percentage": 0.679,
+    "night_multiplier": 1.71,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 11
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 11
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 11
+      }
+    ],
+    "risk_category": "high"
+  },
+  {
+    "region": "Colaba",
+    "total_crimes": 540,
+    "night_crimes": 312,
+    "night_percentage": 0.578,
+    "night_multiplier": 1.65,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "harassment",
+        "Night_Count": 9
+      },
+      {
+        "Crime_Type": "harassment",
+        "Night_Count": 9
+      },
+      {
+        "Crime_Type": "harassment",
+        "Night_Count": 9
+      }
+    ],
+    "risk_category": "high"
+  },
+  {
+    "region": "Dadar",
+    "total_crimes": 468,
+    "night_crimes": 240,
+    "night_percentage": 0.513,
+    "night_multiplier": 1.58,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Bandra",
+    "total_crimes": 360,
+    "night_crimes": 168,
+    "night_percentage": 0.467,
+    "night_multiplier": 1.52,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Borivali",
+    "total_crimes": 252,
+    "night_crimes": 84,
+    "night_percentage": 0.333,
+    "night_multiplier": 1.45,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 3
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 3
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 3
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Malad",
+    "total_crimes": 312,
+    "night_crimes": 108,
+    "night_percentage": 0.346,
+    "night_multiplier": 1.48,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 4
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 4
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 4
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Powai",
+    "total_crimes": 192,
+    "night_crimes": 48,
+    "night_percentage": 0.25,
+    "night_multiplier": 1.42,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 2
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 2
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 2
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Ghatkopar",
+    "total_crimes": 360,
+    "night_crimes": 168,
+    "night_percentage": 0.467,
+    "night_multiplier": 1.55,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 5
+      }
+    ],
+    "risk_category": "moderate"
+  },
+  {
+    "region": "Fort",
+    "total_crimes": 420,
+    "night_crimes": 228,
+    "night_percentage": 0.543,
+    "night_multiplier": 1.61,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 7
+      }
+    ],
+    "risk_category": "high"
+  },
+  {
+    "region": "Marine Lines",
+    "total_crimes": 372,
+    "night_crimes": 180,
+    "night_percentage": 0.484,
+    "night_multiplier": 1.59,
+    "peak_night_crimes": [
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 6
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 6
+      },
+      {
+        "Crime_Type": "theft",
+        "Night_Count": 6
+      }
+    ],
+    "risk_category": "moderate"
+  }
+]

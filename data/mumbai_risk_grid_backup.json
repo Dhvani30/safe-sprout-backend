@@ -1,0 +1,409 @@
+[
+  {
+    "Latitude": 19.0728,
+    "Longitude": 72.8826,
+    "risk": 0.829,
+    "area_name": "Kurla",
+    "risk_level": "critical",
+    "breakdown": {
+      "crime_frequency": 1.0,
+      "night_multiplier": 1.71,
+      "severity": 0.841,
+      "population_density": 0.56
+    },
+    "night_profile": {
+      "region": "Kurla",
+      "total_crimes": 672,
+      "night_crimes": 456,
+      "night_percentage": 0.679,
+      "night_multiplier": 1.71,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 11
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 11
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 11
+        }
+      ],
+      "risk_category": "high"
+    },
+    "total_crimes": 672,
+    "last_updated": "2026-04-02T18:48:48.333301"
+  },
+  {
+    "Latitude": 19.1136,
+    "Longitude": 72.8697,
+    "risk": 0.82,
+    "area_name": "Andheri",
+    "risk_level": "critical",
+    "breakdown": {
+      "crime_frequency": 1.0,
+      "night_multiplier": 1.68,
+      "severity": 0.826,
+      "population_density": 0.6
+    },
+    "night_profile": {
+      "region": "Andheri",
+      "total_crimes": 672,
+      "night_crimes": 420,
+      "night_percentage": 0.625,
+      "night_multiplier": 1.68,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 13
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 13
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 13
+        }
+      ],
+      "risk_category": "high"
+    },
+    "total_crimes": 672,
+    "last_updated": "2026-04-02T18:48:48.314194"
+  },
+  {
+    "Latitude": 18.9067,
+    "Longitude": 72.8147,
+    "risk": 0.787,
+    "area_name": "Colaba",
+    "risk_level": "critical",
+    "breakdown": {
+      "crime_frequency": 0.804,
+      "night_multiplier": 1.65,
+      "severity": 0.841,
+      "population_density": 1.0
+    },
+    "night_profile": {
+      "region": "Colaba",
+      "total_crimes": 540,
+      "night_crimes": 312,
+      "night_percentage": 0.578,
+      "night_multiplier": 1.65,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "harassment",
+          "Night_Count": 9
+        },
+        {
+          "Crime_Type": "harassment",
+          "Night_Count": 9
+        },
+        {
+          "Crime_Type": "harassment",
+          "Night_Count": 9
+        }
+      ],
+      "risk_category": "high"
+    },
+    "total_crimes": 540,
+    "last_updated": "2026-04-02T18:48:48.346689"
+  },
+  {
+    "Latitude": 19.0176,
+    "Longitude": 72.8479,
+    "risk": 0.698,
+    "area_name": "Dadar",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.696,
+      "night_multiplier": 1.58,
+      "severity": 0.833,
+      "population_density": 0.72
+    },
+    "night_profile": {
+      "region": "Dadar",
+      "total_crimes": 468,
+      "night_crimes": 240,
+      "night_percentage": 0.513,
+      "night_multiplier": 1.58,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 468,
+    "last_updated": "2026-04-02T18:48:48.350196"
+  },
+  {
+    "Latitude": 18.932,
+    "Longitude": 72.8347,
+    "risk": 0.698,
+    "area_name": "Fort",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.625,
+      "night_multiplier": 1.61,
+      "severity": 0.833,
+      "population_density": 0.88
+    },
+    "night_profile": {
+      "region": "Fort",
+      "total_crimes": 420,
+      "night_crimes": 228,
+      "night_percentage": 0.543,
+      "night_multiplier": 1.61,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 7
+        }
+      ],
+      "risk_category": "high"
+    },
+    "total_crimes": 420,
+    "last_updated": "2026-04-02T18:48:48.380240"
+  },
+  {
+    "Latitude": 18.9432,
+    "Longitude": 72.8236,
+    "risk": 0.658,
+    "area_name": "Marine Lines",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.554,
+      "night_multiplier": 1.59,
+      "severity": 0.831,
+      "population_density": 0.8
+    },
+    "night_profile": {
+      "region": "Marine Lines",
+      "total_crimes": 372,
+      "night_crimes": 180,
+      "night_percentage": 0.484,
+      "night_multiplier": 1.59,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 6
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 6
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 6
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 372,
+    "last_updated": "2026-04-02T18:48:48.383210"
+  },
+  {
+    "Latitude": 19.0596,
+    "Longitude": 72.8295,
+    "risk": 0.614,
+    "area_name": "Bandra",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.536,
+      "night_multiplier": 1.52,
+      "severity": 0.827,
+      "population_density": 0.64
+    },
+    "night_profile": {
+      "region": "Bandra",
+      "total_crimes": 360,
+      "night_crimes": 168,
+      "night_percentage": 0.467,
+      "night_multiplier": 1.52,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 360,
+    "last_updated": "2026-04-02T18:48:48.359204"
+  },
+  {
+    "Latitude": 19.0865,
+    "Longitude": 72.9081,
+    "risk": 0.612,
+    "area_name": "Ghatkopar",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.536,
+      "night_multiplier": 1.55,
+      "severity": 0.832,
+      "population_density": 0.52
+    },
+    "night_profile": {
+      "region": "Ghatkopar",
+      "total_crimes": 360,
+      "night_crimes": 168,
+      "night_percentage": 0.467,
+      "night_multiplier": 1.55,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 5
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 360,
+    "last_updated": "2026-04-02T18:48:48.376200"
+  },
+  {
+    "Latitude": 19.1868,
+    "Longitude": 72.8483,
+    "risk": 0.558,
+    "area_name": "Malad",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.464,
+      "night_multiplier": 1.48,
+      "severity": 0.831,
+      "population_density": 0.44
+    },
+    "night_profile": {
+      "region": "Malad",
+      "total_crimes": 312,
+      "night_crimes": 108,
+      "night_percentage": 0.346,
+      "night_multiplier": 1.48,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 4
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 4
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 4
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 312,
+    "last_updated": "2026-04-02T18:48:48.367217"
+  },
+  {
+    "Latitude": 19.2307,
+    "Longitude": 72.8567,
+    "risk": 0.52,
+    "area_name": "Borivali",
+    "risk_level": "high",
+    "breakdown": {
+      "crime_frequency": 0.375,
+      "night_multiplier": 1.45,
+      "severity": 0.821,
+      "population_density": 0.48
+    },
+    "night_profile": {
+      "region": "Borivali",
+      "total_crimes": 252,
+      "night_crimes": 84,
+      "night_percentage": 0.333,
+      "night_multiplier": 1.45,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 3
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 3
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 3
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 252,
+    "last_updated": "2026-04-02T18:48:48.362198"
+  },
+  {
+    "Latitude": 19.1176,
+    "Longitude": 72.906,
+    "risk": 0.463,
+    "area_name": "Powai",
+    "risk_level": "moderate",
+    "breakdown": {
+      "crime_frequency": 0.286,
+      "night_multiplier": 1.42,
+      "severity": 0.822,
+      "population_density": 0.32
+    },
+    "night_profile": {
+      "region": "Powai",
+      "total_crimes": 192,
+      "night_crimes": 48,
+      "night_percentage": 0.25,
+      "night_multiplier": 1.42,
+      "peak_night_crimes": [
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 2
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 2
+        },
+        {
+          "Crime_Type": "theft",
+          "Night_Count": 2
+        }
+      ],
+      "risk_category": "moderate"
+    },
+    "total_crimes": 192,
+    "last_updated": "2026-04-02T18:48:48.373201"
+  }
+]

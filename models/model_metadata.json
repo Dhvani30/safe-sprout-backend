@@ -1,0 +1,32 @@
+{
+  "feature_names": [
+    "latitude",
+    "longitude",
+    "hour_of_day",
+    "day_of_week",
+    "crime_count_7d",
+    "crime_count_30d",
+    "night_crime_ratio",
+    "lighting_score",
+    "foot_traffic",
+    "police_proximity",
+    "public_transport_access"
+  ],
+  "training_samples": 33,
+  "test_samples": 9,
+  "class_distribution": {
+    "safe": 13,
+    "unsafe": 20
+  },
+  "model_params": {
+    "n_estimators": 200,
+    "max_depth": 15,
+    "min_samples_split": 5
+  },
+  "performance": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 1.0,
+    "cv_mean": 1.0
+  },
+  "trained_at": "2026-04-02T19:01:38.487807"
+}

@@ -1,0 +1,716 @@
+[
+  {
+    "Latitude": 19.0728,
+    "Longitude": 72.8826,
+    "risk": 0.861,
+    "area_name": "Kurla",
+    "risk_level": "critical",
+    "breakdown": {
+      "base_risk": 0.76,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.6026083879577806,
+      "risk_category": "high"
+    },
+    "total_crimes": 430,
+    "last_updated": "2026-04-02T19:00:35.643598"
+  },
+  {
+    "Latitude": 19.1136,
+    "Longitude": 72.8697,
+    "risk": 0.834,
+    "area_name": "Andheri",
+    "risk_level": "critical",
+    "breakdown": {
+      "base_risk": 0.72,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.583586258272269,
+      "risk_category": "high"
+    },
+    "total_crimes": 416,
+    "last_updated": "2026-04-02T19:00:35.637900"
+  },
+  {
+    "Latitude": 18.9067,
+    "Longitude": 72.8147,
+    "risk": 0.772,
+    "area_name": "Colaba",
+    "risk_level": "critical",
+    "breakdown": {
+      "base_risk": 0.68,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.5400646726722815,
+      "risk_category": "high"
+    },
+    "total_crimes": 385,
+    "last_updated": "2026-04-02T19:00:35.646696"
+  },
+  {
+    "Latitude": 18.9432,
+    "Longitude": 72.8236,
+    "risk": 0.703,
+    "area_name": "Marine Lines",
+    "risk_level": "critical",
+    "breakdown": {
+      "base_risk": 0.57,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4919505036302072,
+      "risk_category": "high"
+    },
+    "total_crimes": 351,
+    "last_updated": "2026-04-02T19:00:35.647884"
+  },
+  {
+    "Latitude": 18.932,
+    "Longitude": 72.8347,
+    "risk": 0.696,
+    "area_name": "Fort",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.59,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.487422287461374,
+      "risk_category": "high"
+    },
+    "total_crimes": 348,
+    "last_updated": "2026-04-02T19:00:35.646696"
+  },
+  {
+    "Latitude": 19.0176,
+    "Longitude": 72.8479,
+    "risk": 0.669,
+    "area_name": "Dadar",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.63,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4682498175133956,
+      "risk_category": "high"
+    },
+    "total_crimes": 334,
+    "last_updated": "2026-04-02T19:00:35.644897"
+  },
+  {
+    "Latitude": 18.9639,
+    "Longitude": 72.8147,
+    "risk": 0.643,
+    "area_name": "Grant Road",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.61,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4501691610878238,
+      "risk_category": "high"
+    },
+    "total_crimes": 321,
+    "last_updated": "2026-04-02T19:00:35.647884"
+  },
+  {
+    "Latitude": 19.0596,
+    "Longitude": 72.8295,
+    "risk": 0.628,
+    "area_name": "Bandra",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.51,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4397008812899739,
+      "risk_category": "high"
+    },
+    "total_crimes": 314,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 19.0433,
+    "Longitude": 72.8636,
+    "risk": 0.6,
+    "area_name": "Sion",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.58,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4202309277786918,
+      "risk_category": "high"
+    },
+    "total_crimes": 300,
+    "last_updated": "2026-04-02T19:00:35.644050"
+  },
+  {
+    "Latitude": 18.969,
+    "Longitude": 72.8197,
+    "risk": 0.591,
+    "area_name": "Mumbai Central",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.64,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4139090718826823,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 295,
+    "last_updated": "2026-04-02T19:00:35.647884"
+  },
+  {
+    "Latitude": 19.2543,
+    "Longitude": 72.8577,
+    "risk": 0.582,
+    "area_name": "Dahisar",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.54,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4073510554237652,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 290,
+    "last_updated": "2026-04-02T19:00:35.636906"
+  },
+  {
+    "Latitude": 18.979,
+    "Longitude": 72.833,
+    "risk": 0.578,
+    "area_name": "Byculla",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.62,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.404362755782266,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 288,
+    "last_updated": "2026-04-02T19:00:35.648884"
+  },
+  {
+    "Latitude": 19.0865,
+    "Longitude": 72.9081,
+    "risk": 0.572,
+    "area_name": "Ghatkopar",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.52,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.4006113686683357,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 286,
+    "last_updated": "2026-04-02T19:00:35.642972"
+  },
+  {
+    "Latitude": 18.9515,
+    "Longitude": 72.8169,
+    "risk": 0.571,
+    "area_name": "Charni Road",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.55,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3994384816661247,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 285,
+    "last_updated": "2026-04-02T19:00:35.647884"
+  },
+  {
+    "Latitude": 19.1385,
+    "Longitude": 72.8555,
+    "risk": 0.562,
+    "area_name": "Jogeshwari",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.53,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3936073589254965,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 281,
+    "last_updated": "2026-04-02T19:00:35.637900"
+  },
+  {
+    "Latitude": 19.1868,
+    "Longitude": 72.8483,
+    "risk": 0.556,
+    "area_name": "Malad",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.46,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3895100001839034,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 278,
+    "last_updated": "2026-04-02T19:00:35.637900"
+  },
+  {
+    "Latitude": 19.274,
+    "Longitude": 72.8702,
+    "risk": 0.552,
+    "area_name": "Mira Road",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.51,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.386656124231994,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 276,
+    "last_updated": "2026-04-02T19:00:35.636906"
+  },
+  {
+    "Latitude": 19.0008,
+    "Longitude": 72.8305,
+    "risk": 0.527,
+    "area_name": "Lower Parel",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.56,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.369127341720236,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 263,
+    "last_updated": "2026-04-02T19:00:35.646696"
+  },
+  {
+    "Latitude": 19.4249,
+    "Longitude": 72.8096,
+    "risk": 0.522,
+    "area_name": "Nalasopara",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.52,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3656376228381266,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 261,
+    "last_updated": "2026-04-02T19:00:35.635903"
+  },
+  {
+    "Latitude": 19.1076,
+    "Longitude": 72.9241,
+    "risk": 0.52,
+    "area_name": "Vikhroli",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.48,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3639572229796686,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 259,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 19.041,
+    "Longitude": 72.8407,
+    "risk": 0.516,
+    "area_name": "Mahim",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.55,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3608689107289424,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 257,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 19.0144,
+    "Longitude": 72.8393,
+    "risk": 0.515,
+    "area_name": "Prabhadevi",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.52,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3602205630612738,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 257,
+    "last_updated": "2026-04-02T19:00:35.645827"
+  },
+  {
+    "Latitude": 18.969,
+    "Longitude": 72.813,
+    "risk": 0.514,
+    "area_name": "Tardeo",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.53,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3597029645866376,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 256,
+    "last_updated": "2026-04-02T19:00:35.648884"
+  },
+  {
+    "Latitude": 19.1441,
+    "Longitude": 72.9342,
+    "risk": 0.507,
+    "area_name": "Bhandup",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.5,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3549516471248655,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 253,
+    "last_updated": "2026-04-02T19:00:35.639902"
+  },
+  {
+    "Latitude": 19.0279,
+    "Longitude": 72.857,
+    "risk": 0.504,
+    "area_name": "Matunga",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.54,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.352584595518557,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 251,
+    "last_updated": "2026-04-02T19:00:35.644470"
+  },
+  {
+    "Latitude": 19.3009,
+    "Longitude": 72.8567,
+    "risk": 0.502,
+    "area_name": "Bhayandar",
+    "risk_level": "high",
+    "breakdown": {
+      "base_risk": 0.47,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3517056911013166,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 251,
+    "last_updated": "2026-04-02T19:00:35.636906"
+  },
+  {
+    "Latitude": 19.099,
+    "Longitude": 72.844,
+    "risk": 0.484,
+    "area_name": "Vile Parle",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.44,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3390618327386867,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 242,
+    "last_updated": "2026-04-02T19:00:35.637900"
+  },
+  {
+    "Latitude": 19.0176,
+    "Longitude": 72.8187,
+    "risk": 0.479,
+    "area_name": "Worli",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.48,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3352384032071503,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 239,
+    "last_updated": "2026-04-02T19:00:35.645827"
+  },
+  {
+    "Latitude": 18.9826,
+    "Longitude": 72.8253,
+    "risk": 0.479,
+    "area_name": "Mahalaxmi",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.45,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3352628298765126,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 239,
+    "last_updated": "2026-04-02T19:00:35.646696"
+  },
+  {
+    "Latitude": 19.4612,
+    "Longitude": 72.7985,
+    "risk": 0.477,
+    "area_name": "Vasai",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.48,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3338295532076616,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 238,
+    "last_updated": "2026-04-02T19:00:35.634901"
+  },
+  {
+    "Latitude": 19.0728,
+    "Longitude": 72.8355,
+    "risk": 0.477,
+    "area_name": "Khar",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.43,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3335788682443717,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 238,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 19.2307,
+    "Longitude": 72.8567,
+    "risk": 0.474,
+    "area_name": "Borivali",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.38,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.33166869453009,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 236,
+    "last_updated": "2026-04-02T19:00:35.636906"
+  },
+  {
+    "Latitude": 19.4559,
+    "Longitude": 72.8062,
+    "risk": 0.469,
+    "area_name": "Virar",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.45,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.328236121726372,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 234,
+    "last_updated": "2026-04-02T19:00:35.633923"
+  },
+  {
+    "Latitude": 19.1663,
+    "Longitude": 72.8526,
+    "risk": 0.469,
+    "area_name": "Goregaon",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.49,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3281017074101154,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 234,
+    "last_updated": "2026-04-02T19:00:35.637900"
+  },
+  {
+    "Latitude": 19.1589,
+    "Longitude": 72.9458,
+    "risk": 0.469,
+    "area_name": "Nahur",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.44,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.328498223630342,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 234,
+    "last_updated": "2026-04-02T19:00:35.642497"
+  },
+  {
+    "Latitude": 19.0821,
+    "Longitude": 72.912,
+    "risk": 0.433,
+    "area_name": "Vidyavihar",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.46,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.3032489445508606,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 216,
+    "last_updated": "2026-04-02T19:00:35.642972"
+  },
+  {
+    "Latitude": 19.0825,
+    "Longitude": 72.8417,
+    "risk": 0.426,
+    "area_name": "Santacruz",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.47,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.298343814622945,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 213,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 18.959,
+    "Longitude": 72.805,
+    "risk": 0.426,
+    "area_name": "Cumballa Hill",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.42,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.2983479895182808,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 213,
+    "last_updated": "2026-04-02T19:00:35.648884"
+  },
+  {
+    "Latitude": 19.1176,
+    "Longitude": 72.906,
+    "risk": 0.421,
+    "area_name": "Powai",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.35,
+      "source": "calculated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.2946388283029737,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 210,
+    "last_updated": "2026-04-02T19:00:35.638903"
+  },
+  {
+    "Latitude": 18.948,
+    "Longitude": 72.795,
+    "risk": 0.419,
+    "area_name": "Malabar Hill",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.38,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.29355055030301,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 209,
+    "last_updated": "2026-04-02T19:00:35.648884"
+  },
+  {
+    "Latitude": 19.2074,
+    "Longitude": 72.8504,
+    "risk": 0.408,
+    "area_name": "Kandivali",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.42,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.2853263903248506,
+      "risk_category": "moderate"
+    },
+    "total_crimes": 203,
+    "last_updated": "2026-04-02T19:00:35.636906"
+  },
+  {
+    "Latitude": 19.1722,
+    "Longitude": 72.9565,
+    "risk": 0.368,
+    "area_name": "Mulund",
+    "risk_level": "moderate",
+    "breakdown": {
+      "base_risk": 0.39,
+      "source": "estimated"
+    },
+    "night_profile": {
+      "night_multiplier": 1.2577537224715354,
+      "risk_category": "low"
+    },
+    "total_crimes": 184,
+    "last_updated": "2026-04-02T19:00:35.640964"
+  }
+]
