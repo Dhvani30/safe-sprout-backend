@@ -1,0 +1,23 @@
+[project]
+name = "safe-sprout-backend"
+version = "1.0.0"
+description = "Safe Sprout Risk Prediction API"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn>=0.27.0",
+    "python-dotenv>=1.0.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scikit-learn>=1.3.0",
+    "joblib>=1.3.0",
+    "pydantic>=2.5.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.railway]
+# Railway auto-detects FastAPI, but this helps
+startCommand = "uvicorn main:app --host 0.0.0.0 --port $PORT"
